@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #46846C;
+}
+
+main {
+  max-width: 800px;
+  width: 90%;
+  margin: auto;
+  padding: 40px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#primerdiv {
+  border-radius: 5px;
+  width: 50%
+  border: 2px solid #73AD21;
+  padding: 200px;
+  width: 800px;
+  background: white;
+}
+
+.titulo {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  padding: 10px;
+}
